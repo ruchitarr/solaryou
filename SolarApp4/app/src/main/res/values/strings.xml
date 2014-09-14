@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Solar You</string>
+    <string name="hello_world">Solar You</string>
+    <string name="text_src_planet">"\t\t\tSelect current planet\t\t\t\t\t\t\t\t\t\t"</string>
+    <string name="text_target_planet">"Select destination planet"</string>
+    <string name="text_result">Your converted\n age is:</string>
+    <string name="text_result_age">\t</string>
+
+
+
+    <string name="action_settings">Settings</string>
+    <string name="input_age">Your age in years</string>
+    <string name="input_weight">Your weight in pounds</string>
+
+    <string name="radio_mercury">Mercury</string>
+    <string name="radio_earth">Earth</string>
+    <string name="radio_jupiter">Jupiter</string>
+    <string name="radio_mars">Mars</string>
+    <string name="radio_venus">Venus</string>
+    <string name="radio_saturn">Saturn</string>
+    <string name="radio_uranus">Uranus</string>
+    <string name="radio_neptune">Neptune</string>
+
+    <string name="radio_mercury_target">Mercury</string>
+    <string name="radio_earth_target">Earth</string>
+    <string name="radio_jupiter_target">Jupiter</string>
+    <string name="radio_mars_target">Mars</string>
+    <string name="radio_venus_target">Venus</string>
+    <string name="radio_saturn_target">Saturn</string>
+    <string name="radio_uranus_target">Uranus</string>
+    <string name="radio_neptune_target">Neptune</string>
+
+
+
+</resources>
